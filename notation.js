@@ -1,5 +1,6 @@
 var notationbox = document.getElementById("notationbox")
 
 function format(){
-  var number = nationbox.value
+    var number = notationbox.value
+    alert(number)
 }
