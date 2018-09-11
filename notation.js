@@ -6,5 +6,5 @@ function format(){
     
     var exponet = length - 1
     
-    alert(number + "^" + exponet)
+    alert(number + " * " + "10^" + exponet)
 }
