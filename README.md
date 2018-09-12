@@ -1,7 +1,7 @@
 # About
 Returns a number in scientific standard form.
 
-Examples
+## Examples
 
 input: 1234
 output: 1.234 * 10^3
