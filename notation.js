@@ -6,6 +6,10 @@ function format(){
     
     var exponet = length - 1
     
-    alert(number*(Math.pow(10, -(exponet))) + " * " + "10^" + exponet)
-    //1526000000 to 1.256 * 10^9
+    if(number >= 1){
+        alert(number * (Math.pow(10, -(exponet))) + " * " + "10^" + exponet)
+    } else {
+        alert(number * (Math.pow(10, exponet)) + " * " + "10^" + exponet
+    }
 }
+T
